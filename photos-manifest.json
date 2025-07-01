@@ -1,0 +1,65 @@
+{
+  "version": "v5",
+  "data": [
+    {
+      "id": "YR001916",
+      "title": "YR001916",
+      "description": "",
+      "dateTaken": "2025-06-21T07:35:10.000Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://bucket.gallery.furry.pt/photos/YR001916.JPG",
+      "thumbnailUrl": "/thumbnails/YR001916.webp",
+      "thumbHash": "5518060d80746999708988457b2979483fa1c5032b",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/YR001916.JPG",
+      "lastModified": "2025-07-01T13:31:34.373Z",
+      "size": 7194119,
+      "exif": {
+        "DateTimeOriginal": "2025-06-21T15:35:10+08:00",
+        "ImageWidth": 6000,
+        "ImageHeight": 4000,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Make": "RICOH IMAGING COMPANY, LTD.",
+        "Model": "RICOH GR III",
+        "Software": "RICOH GR III Ver. 1.91",
+        "Copyright": "YUKIAKARI",
+        "ExposureTime": "1/30",
+        "FNumber": 4,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 5000,
+        "ExposureCompensation": "+0.7",
+        "Flash": "Off, Did not fire",
+        "FocalLength": "18.3 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Manual",
+        "FocalLengthIn35mmFormat": "28 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "SensingMethod": "One-chip color area",
+        "Aperture": 4,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/30",
+        "LightValue": 3.3,
+        "GPSLatitude": 23.162503,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 113.445489,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 33,
+        "contrast": 30,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.02
+      },
+      "isLivePhoto": false
+    }
+  ]
+}
